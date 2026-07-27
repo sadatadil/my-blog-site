@@ -19,10 +19,11 @@ category: "شعر"
 tags:
   - "عاشقانه"
 draft: false
----
-
 عجیب است که برای هر روز گریستن، بهانه‌های کوچک و بزرگ داریم؛ اما برای خندیدن، در جستجوی بهانه‌ایم. از این روست که مرگ یک کمدین برایم تلخ‌تر است تا رفتنِ انان که پیشه‌شان با درد و گریه پیوند دارد. چرا که او، نگهبان شکننده‌ترین دارایی ماست.
 ثنا
+---
+
+
 
 
 Lipi's visual design draws inspiration from the [Kami](https://kami.tw93.fun) design language: warm neutrals, a constrained measure, generous spacing, and an interface that stays out of the way. The type is set in Literata, a serif face designed for reading at length. The layout holds under Cmd+P. The output is static HTML with minimal JavaScript.
