@@ -3,11 +3,7 @@ title: About
 description: Lipi is a typography-first Astro template for long-form writing, made by The Localhost Studio.
 updated: 2026-05-26
 ---
-
-عجیب است که برای هر روز گریستن، بهانه‌های کوچک و بزرگ داریم؛ اما برای خندیدن، در جستجوی بهانه‌ایم. از این روست که مرگ یک کمدین برایم تلخ‌تر است تا رفتنِ انان که پیشه‌شان با درد و گریه پیوند دارد. چرا که او، نگهبان شکننده‌ترین دارایی ماست.
-
-
-ثنا
+title: 'اولین شعر من'description: 'یک توضیح کوتاه'published: 2023-05-20category: شعرtags: - عاشقانهdraft: false
 
 Lipi's visual design draws inspiration from the [Kami](https://kami.tw93.fun) design language: warm neutrals, a constrained measure, generous spacing, and an interface that stays out of the way. The type is set in Literata, a serif face designed for reading at length. The layout holds under Cmd+P. The output is static HTML with minimal JavaScript.
 
