@@ -1,9 +1,10 @@
 ---
-title: Home Intro
-description: A typography-first Astro template for long-form writing.
+title: اولین شعر
+description: گالیمالوا
 updated: 2026-05-26
 ---
 
-A place for essays, notes, and writing that takes its time.
+عجیب است که برای هر روز گریستن، بهانه‌های کوچک و بزرگ داریم؛ اما برای خندیدن، در جستجوی بهانه‌ایم. از این روست که مرگ یک کمدین برایم تلخ‌تر است تا رفتنِ انان که پیشه‌شان با درد و گریه پیوند دارد. چرا که او، نگهبان شکننده‌ترین دارایی ماست.
 
-Lipi is a typography-first publishing template for Astro, built for writers who care about how their words look on the page.
+
+ثنا
