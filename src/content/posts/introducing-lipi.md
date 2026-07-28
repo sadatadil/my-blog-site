@@ -1,4 +1,3 @@
----
 title: "About Me"description: "Introduction"published: 2024-05-20category: "Meta"tags: - "about"draft: false
 سلام! به وب‌سایت شخصی من خوش آمدید.
 
@@ -7,4 +6,3 @@ title: "About Me"description: "Introduction"published: 2024-05-20category: "Meta
 در این وبلاگ، تلاش می‌کنم تکه‌هایی از روح خودم را به شکل کلمات به شما نشان دهم. امیدوارم از خواندن نوشته‌های من لذت ببرید.
 
 با احترام،ثنا
----
